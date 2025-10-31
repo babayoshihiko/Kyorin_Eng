@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Kyorin University School of Medicine Englist III, IV"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Sections"
+        menu:
+          - text: "About Us"
+            href: about.qmd
+      - text: "Past"
+        menu:
+          - text: "2025 Spring"
+            href: about.qmd
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+
+

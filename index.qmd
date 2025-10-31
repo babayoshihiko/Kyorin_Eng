@@ -1,0 +1,23 @@
+---
+title: "杏林大学医学部医学科 医学英語 III, IV (BC班 2025)"
+---
+
+2025年秋学期
+
+| 回  | 日 | 教室  | ファイル | 内容 |
+|--|--|--|--|--|
+| 1 | 8/28 | 504 | [レジュメ](https://babayoshihiko.github.io/How/design.html) | ガイダンス | 
+| 2 | 9/4 | 504 | [レジュメ](https://babayoshihiko.github.io/How/frailty.html) | 論文1: Fried LP et al. (2001) Frailty in Older Adults: Evidence for a Phenotype, *J Gerontol Med Sci*, **56**(3), M146-M157. |
+| 3 | 9/11 | ??? | [レジュメ](http://124.219.182.167/How2/meta_vetrano.html) | 論文2: Vetrano DL, Palmer KM, Galluzzo L, Giampaoli S, Marengoni A, Bernabei R, & Onder G (2018). Hypertension and frailty: a systematic review and meta-analysis. *BMJ open*, **8**(12), e024406. |
+| 4 | 9/18 | 504 |  | 論文3: 教科書 文例5 |
+| 5 | 9/25 | 202 | 参考問題 | 小テスト: 論文2 を基にした課題 |
+| 6 | 10/2 | 	504	| [レジュメ](https://babayoshihiko.github.io/How/rct_intro.html) [レジュメ](http://124.219.182.167/How2/rct_teh.html) | 論文4: Teh R, Barnett D, Edlin R et al. (2022). Effectiveness of a complex intervention of group-based nutrition and physical activity to prevent frailty in pre-frail older adults (SUPER): A randomised controlled trial. The Lancet Healthy Longevity, 3(8), e519-e530. | 
+| 7 | 	10/9 | 504 | | | 
+| 8 | 	10/16 | 504	| 未定 | 	未定 | 
+| 9 | 	10/23 | 202 | [参考問題](https://docs.google.com/forms/d/e/1FAIpQLSeEI0pFkn-cZTdrIPrbXhW5z1Pq6cPuHLH8r0yxcHSd3hLn8A/viewform?usp=header) | 	小テスト: 論文4 を基にした課題 | 
+| 10 | 	10/30 | 504	| [レジュメ](https://babayoshihiko.github.io/How/crosssectional_intro.html) [レジュメ](http://124.219.182.167/How2/crosssectional_liu.html) |	論文5: Liu W, Puts M, Jian F, Zhou C, Tang S and Chen S (2020) Physical frailty and its associated factors among elderly nursing home residents in China |
+| 11 | 	11/6 |	504 | Active Learning 1 |
+| 12 | 	11/13 |	504	|  Active Learning 2 	|
+| 期末	| 未定 | 未定 | 参考問題 | 期末テスト: Liu W et al (2020) BMC Geriatr より出題 |
+
+: 2025年秋学期 日程 {tbl-colwidths="[1,1,1,17,80]"}
