@@ -3,24 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Kyorin University School of Medicine Englist III, IV"
+  title: "KU Med English III, IV"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - text: "Sections"
-        menu:
-          - text: "About Us"
-            href: about.qmd
       - text: "Past"
         menu:
-          - text: "2025 Spring"
-            href: about.qmd
+          - text: "2025 Autumn"
+            href: 2025_Autumn.qmd
+
 
 format:
   html:
-    theme: litera
-    css: styles.css
+    theme:
+      - minty
+      - custom.scss
     toc: true
 
 
