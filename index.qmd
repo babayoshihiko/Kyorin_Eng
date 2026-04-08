@@ -48,11 +48,11 @@ Wang ZT, Yan F, Zhang YR *et al.* (2022). Modified dementia risk score as a tool
 | 回  | B1 | E1 | 教室  | ファイル | 内容 |
 |--|--|--|--|--|--|
 | 1 | 4/2 | 5/21 | 604 |  | ガイダンス | 
-| 2 | 4/9 | 5/28 | 604 | [レジュメ](https://babayoshihiko.github.io/How/https://kyorin.pages.dev/screening_intro.html)<br />[レジュメ](http://kyorin.pages.dev/https://kyorin.pages.dev/screening_wang.html) | ロジスティック回帰  |
-| 3 | 4/16 | 6/4 | 604 | [レジュメ](https://babayoshihiko.github.io/How/https://kyorin.pages.dev/screening_intro.html)<br />[レジュメ](http://kyorin.pages.dev/https://kyorin.pages.dev/screening_wang.html) | 生存分析 |
+| 2 | 4/9 | 5/28 | 604 | [レジュメ](https://babayoshihiko.github.io/How/logistic_intro.html)<br />[レジュメ](https://kyorin.pages.dev/screening_wang.html) | ロジスティック回帰  |
+| 3 | 4/16 | 6/4 | 604 | [レジュメ](https://kyorin.pages.dev/screening_intro.html)<br />[レジュメ](http://kyorin.pages.dev/https://kyorin.pages.dev/screening_wang.html) | 生存分析 |
 | 4 | 4/23 | 6/11 | 604 |  |            |
 |   | 4/30 | --- | --- |  | 4/30 は休 |
-| 5 | 5/7 | 6/18 | 202 | [レジュメ](https://babayoshihiko.github.io/How/https://kyorin.pages.dev/screening_intro.html)<br />[レジュメ](http://kyorin.pages.dev/https://kyorin.pages.dev/screening_wang.html) | スクリーニングツール |
+| 5 | 5/7 | 6/18 | 202 | [レジュメ](https://babayoshihiko.github.io/How/screening_intro.html)<br />[レジュメ](https://kyorin.pages.dev/screening_wang.html) | スクリーニングツール |
 | 6 | 5/14 | 6/25 | 604 |  | Active Learning |
 
 
