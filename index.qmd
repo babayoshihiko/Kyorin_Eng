@@ -10,11 +10,11 @@ title: "医学英語 III, IV"
 
 | 回  | 日 | 教室  | ファイル | 内容 |
 |--|--|--|--|--|
-| 1 | 4/2 | 604 | [レジュメ](https://babayoshihiko.github.io/How/design.html) | ガイダンス | 
-| 2 | 4/9 | 604 | [レジュメ](https://babayoshihiko.github.io/How/frailty.html) | 論文1: Fried LP et al. (2001) Frailty in Older Adults: Evidence for a Phenotype, *J Gerontol Med Sci*, **56**(3), M146-M157. |
+| 1 | 4/2 | 604 | [レジュメ (研究デザイン)](https://babayoshihiko.github.io/How/design.html) | ガイダンス | 
+| 2 | 4/9 | 604 | [レジュメ (フレイル)](https://babayoshihiko.github.io/How/frailty.html) | 論文1: Fried LP et al. (2001) Frailty in Older Adults: Evidence for a Phenotype, *J Gerontol Med Sci*, **56**(3), M146-M157. |
 |  | 4/16 | - | | 実習のため英語なし |
-| 3 | 4/23 | 604 | [レジュメ](https://babayoshihiko.github.io/How/meta_intro.html)<br />[レジュメ](https://kyorin.pages.dev/meta_vetrano.html) | 論文2: Vetrano DL, Palmer KM, Galluzzo L, Giampaoli S, Marengoni A, Bernabei R, & Onder G (2018). Hypertension and frailty: a systematic review and meta-analysis. *BMJ open*, **8**(12), e024406. |
-|  | 4/30 | - | | 実習のため英語なし |
+| 3 | 4/23 | 604 | [レジュメ (メタ分析)](https://babayoshihiko.github.io/How/meta_intro.html)<br />[レジュメ (論文)](https://kyorin.pages.dev/meta_vetrano.html) | 論文2: Vetrano DL, Palmer KM, Galluzzo L, Giampaoli S, Marengoni A, Bernabei R, & Onder G (2018). Hypertension and frailty: a systematic review and meta-analysis. *BMJ open*, **8**(12), e024406. |
+|  | 4/30 | - | | 4/30 は休 |
 | 4 | 5/7 | 604 |  | 論文3: 教科書 文例5 |
 | 5 | 5/14 | 202 | 参考問題 | 小テスト: 論文2 を基にした課題 |
 | 6 | 5/21 | 	604	| [レジュメ](https://babayoshihiko.github.io/How/rct_intro.html)<br />[レジュメ](https://kyorin.pages.dev/rct_teh.html) | 論文4: Teh R, Barnett D, Edlin R et al. (2022). Effectiveness of a complex intervention of group-based nutrition and physical activity to prevent frailty in pre-frail older adults (SUPER): A randomised controlled trial. The Lancet Healthy Longevity, 3(8), e519-e530. | 
@@ -26,7 +26,7 @@ title: "医学英語 III, IV"
 | 12 | 	7/2 |	604	|  Active Learning 2 	| つづき |
 | 期末	| -- | -- | -- | 期末テスト: Liu W et al (2020) BMC Geriatr より出題 |
 
-: 2026年 春学期 日程 {tbl-colwidths="[1,1,3,15,80]"}
+: 2026年 春学期 日程 {tbl-colwidths="[1,1,3,35,60]"}
 
 
 ## 医学英語 IV
@@ -50,12 +50,12 @@ Wang ZT, Yan F, Zhang YR *et al.* (2022). Modified dementia risk score as a tool
 | 回  | B1 | E1 | 教室  | ファイル | 内容 |
 |--|--|--|--|--|--|
 | 1 | 4/2 | 5/21 | 604 |  | ガイダンス | 
-| 2 | 4/9 | 5/28 | 604 | [レジュメ](https://babayoshihiko.github.io/How/crosssectional_intro.html)<br />[レジュメ](https://kyorin.pages.dev/screening_wang.html) | ロジスティック回帰  |
-| 3 | 4/16 | 6/4 | 604 | [レジュメ](https://kyorin.pages.dev/screening_intro.html)<br />[レジュメ](https://kyorin.pages.dev/screening_wang.html) | 生存分析 |
-| 4 | 4/23 | 6/11 | 604 | [レジュメ](https://babayoshihiko.github.io/How/screening_intro.html)<br />[レジュメ](https://kyorin.pages.dev/screening_wang.html) | スクリーニングツール |
+| 2 | 4/9 | 5/28 | 604 | [レジュメ (横断研究)](https://babayoshihiko.github.io/How/crosssectional_intro.html)<br />[レジュメ (論文)](https://kyorin.pages.dev/screening_wang.html) | ロジスティック回帰  |
+| 3 | 4/16 | 6/4 | 604 | [レジュメ (コホート研究)](https://kyorin.pages.dev/cohort_intro.html)<br />[レジュメ (論文)](https://kyorin.pages.dev/screening_wang.html) | 生存分析 |
+| 4 | 4/23 | 6/11 | 604 | [レジュメ (スクリーニング)](https://babayoshihiko.github.io/How/screening_intro.html)<br />[レジュメ (論文)](https://kyorin.pages.dev/screening_wang.html) | スクリーニングツール |
 |   | 4/30 | --- | --- |  | 4/30 は休 |
 | 5 | 5/7 | 6/18 | 202 |  | 小テスト |
 | 6 | 5/14 | 6/25 | 604 |  | Active Learning |
 
 
-: 2026年 春学期 日程 {tbl-colwidths="[1,1,1,3,13,80]"}
+: 2026年 春学期 日程 {tbl-colwidths="[1,1,1,3,33,60]"}
