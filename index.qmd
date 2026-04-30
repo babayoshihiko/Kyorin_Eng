@@ -54,7 +54,7 @@ Wang ZT, Yan F, Zhang YR *et al.* (2022). Modified dementia risk score as a tool
 | 3 | 4/16 | 6/4 | 604 | [レジュメ (コホート研究)](https://kyorin.pages.dev/cohort_intro.html)<br />[レジュメ (論文)](https://kyorin.pages.dev/screening_wang.html) | 生存分析 |
 | 4 | 4/23 | 6/11 | 604 | [レジュメ (スクリーニング)](https://babayoshihiko.github.io/How/screening_intro.html)<br />[レジュメ (論文)](https://kyorin.pages.dev/screening_wang.html) | スクリーニングツール |
 |   | 4/30 | --- | --- |  | 4/30 は休 |
-| 5 | 5/7 | 6/18 | 202 | [参考問題](https://kyorin.pages.dev/screening_wang.html_q.html) | 小テスト: 論文 を印刷して渡します。この論文についてしてください。本番は Microsoft Forms です。参考問題は簡易版です。  |
+| 5 | 5/7 | 6/18 | 202 | [参考問題](https://kyorin.pages.dev/screening_wang_q.html) | 小テスト: 論文 を印刷して渡します。この論文についてしてください。本番は Microsoft Forms です。参考問題は簡易版です。  |
 | 6 | 5/14 | 6/25 | 604 |  | Active Learning |
 
 
